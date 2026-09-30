@@ -29,8 +29,8 @@
       <button label="Hidrante" icon="hidrante.png">
         <text>Hidrante</text>
       </button>
-      <button label="Árbol" icon="arbol.png">
-        <text>Árbol</text>
+      <button label="Arbol" icon="arbol.png">
+        <text>Arbol</text>
       </button>
       <button label="Parqueo" icon="parqueo.png">
         <text>Parqueo</text>
