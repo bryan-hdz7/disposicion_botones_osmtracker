@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layouts>
+  <layout name="default">
+    <row>
+      <button label="Basurero" icon="basurero.png">
+        <text>Basurero</text>
+      </button>
+      <button label="Pila" icon="pila.png">
+        <text>Pila</text>
+      </button>
+      <button label="Entrada" icon="puerta2.png">
+        <text>Entrada</text>
+      </button>
+    </row>
+
+    <row>
+      <button label="Sendero" icon="sendero.png">
+        <text>Sendero</text>
+      </button>
+      <button label="Ducha" icon="ducha.png">
+        <text>Ducha</text>
+      </button>
+      <button label="Banca" icon="banca.png">
+        <text>Banca</text>
+      </button>
+    </row>
+
+    <row>
+      <button label="Hidrante" icon="hidrante.png">
+        <text>Hidrante</text>
+      </button>
+      <button label="Árbol" icon="arbol.png">
+        <text>Árbol</text>
+      </button>
+      <button label="Parqueo" icon="parqueo.png">
+        <text>Parqueo</text>
+      </button>
+    </row>
+
+    <row>
+      <button label="Paso peatonal" icon="paso_peatonal.png">
+        <text>Paso peatonal</text>
+      </button>
+      <button label="Cancha" icon="cancha.png">
+        <text>Cancha</text>
+      </button>
+      <button label="Poste de luz" icon="poste_de_luz.png">
+        <text>Poste de luz</text>
+      </button>
+    </row>
+  </layout>
+</layouts>
