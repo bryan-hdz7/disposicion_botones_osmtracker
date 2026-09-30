@@ -1,52 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?>
 <layouts>
-  <layout name="default">
+  <layout name="root">
+
     <row>
-      <button label="Basurero" icon="basurero.png">
-        <text>Basurero</text>
-      </button>
-      <button label="Pila" icon="pila.png">
-        <text>Pila</text>
-      </button>
-      <button label="Entrada" icon="puerta2.png">
-        <text>Entrada</text>
-      </button>
+      <button type="tag" label="Basurero" icon="basurero.png" />
+      <button type="tag" label="Pila" icon="pila.png" />
+      <button type="tag" label="Entrada" icon="puerta2.png" />
     </row>
 
     <row>
-      <button label="Sendero" icon="sendero.png">
-        <text>Sendero</text>
-      </button>
-      <button label="Ducha" icon="ducha.png">
-        <text>Ducha</text>
-      </button>
-      <button label="Banca" icon="banca.png">
-        <text>Banca</text>
-      </button>
+      <button type="tag" label="Sendero" icon="sendero.png" />
+      <button type="tag" label="Ducha" icon="ducha.png" />
+      <button type="tag" label="Banca" icon="banca.png" />
     </row>
 
     <row>
-      <button label="Hidrante" icon="hidrante.png">
-        <text>Hidrante</text>
-      </button>
-      <button label="Arbol" icon="arbol.png">
-        <text>Arbol</text>
-      </button>
-      <button label="Parqueo" icon="parqueo.png">
-        <text>Parqueo</text>
-      </button>
+      <button type="tag" label="Hidrante" icon="hidrante.png" />
+      <button type="tag" label="Arbol" icon="arbol.png" />
+      <button type="tag" label="Parqueo" icon="parqueo.png" />
     </row>
 
     <row>
-      <button label="Paso peatonal" icon="paso_peatonal.png">
-        <text>Paso peatonal</text>
-      </button>
-      <button label="Cancha" icon="cancha.png">
-        <text>Cancha</text>
-      </button>
-      <button label="Poste de luz" icon="poste_de_luz.png">
-        <text>Poste de luz</text>
-      </button>
+      <button type="tag" label="Paso peatonal" icon="paso_peatonal.png" />
+      <button type="tag" label="Cancha" icon="cancha.png" />
+      <button type="tag" label="Poste de luz" icon="poste_de_luz.png" />
     </row>
+
   </layout>
 </layouts>
