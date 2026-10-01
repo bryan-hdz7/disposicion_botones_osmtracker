@@ -7,27 +7,27 @@
     </row>
 
     <row>
-      <button type="tag" label="Basurero" icon="basurero.png" />
-      <button type="tag" label="Pila" icon="pila.png" />
-      <button type="tag" label="Entrada" icon="puerta2.png" />
+      <button type="tag" label="Basurero" icon="mapeo_codea_icons/basurero.png" />
+      <button type="tag" label="Pila" icon="mapeo_codea_icons/pila.png" />
+      <button type="tag" label="Entrada" icon="mapeo_codea_icons/puerta2.png" />
     </row>
 
     <row>
-      <button type="tag" label="Sendero" icon="sendero.png" />
-      <button type="tag" label="Ducha" icon="ducha.png" />
-      <button type="tag" label="Banca" icon="banca.png" />
+      <button type="tag" label="Sendero" icon="mapeo_codea_icons/sendero.png" />
+      <button type="tag" label="Ducha" icon="mapeo_codea_icons/ducha.png" />
+      <button type="tag" label="Banca" icon="mapeo_codea_icons/banca.png" />
     </row>
 
     <row>
-      <button type="tag" label="Hidrante" icon="hidrante.png" />
-      <button type="tag" label="Arbol" icon="arbol.png" />
-      <button type="tag" label="Parqueo" icon="parqueo.png" />
+      <button type="tag" label="Hidrante" icon="mapeo_codea_icons/hidrante.png" />
+      <button type="tag" label="Arbol" icon="mapeo_codea_icons/arbol.png" />
+      <button type="tag" label="Parqueo" icon="mapeo_codea_icons/parqueo.png" />
     </row>
 
     <row>
-      <button type="tag" label="Paso peatonal" icon="paso_peatonal.png" />
-      <button type="tag" label="Cancha" icon="cancha.png" />
-      <button type="tag" label="Poste de luz" icon="poste_de_luz.png" />
+      <button type="tag" label="Paso peatonal" icon="mapeo_codea_icons/paso_peatonal.png" />
+      <button type="tag" label="Cancha" icon="mapeo_codea_icons/cancha.png" />
+      <button type="tag" label="Poste de luz" icon="mapeo_codea_icons/poste_de_luz.png" />
     </row>
 
   </layout>
