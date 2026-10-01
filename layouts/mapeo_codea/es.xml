@@ -1,5 +1,10 @@
 <layouts>
   <layout name="root">
+    <row>
+        <button type="voicerec" />
+        <button type="picture" />
+        <button type="textnote" />
+    </row>
 
     <row>
       <button type="tag" label="Basurero" icon="basurero.png" />
